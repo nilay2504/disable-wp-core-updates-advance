@@ -1,6 +1,5 @@
 === Plugin Name ===
 Contributors: gr8nilay
-Donate link: http://nilaypatel.info/donations/?plugin=disable-wp-core-updates-advance
 Tags: disable WordPress core updates, core updates, disable WordPress updates advance, updates, disable
 Requires at least: 3.0.1
 Tested up to: 5.2.1
@@ -22,11 +21,6 @@ You need to keep your WordPress updated including themes and plugins so if you f
 1. Extract the zip file into your /wp-content/plugins/ directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 1. On activation it will hide all the theme updates
-
-== Frequently Asked Questions ==
-
-If you have any question do let me know on gr8nilay@gmail.com
-
 
 == Changelog ==
 
